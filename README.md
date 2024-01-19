@@ -9,6 +9,6 @@ If we have a production line for filtering and packaging fruits for later export
 
   + ***(test-images)*** directory contains test images for the app along with a **simulation** directory containing test images for launching the app to simulate consecutive incomming of fruits on the line.
 
-### Note: this project source code has been developed by me as my practical exam project for a computer vision class I had at college and not yet for commercial utilities.
+### Note: this project source code has been developed by me as my practical exam project for a computer vision class I had at college and not yet for commercial use.
 
   
